@@ -1,0 +1,50 @@
+.pyramid{
+    text-align: center;
+}
+.pyramid2{
+    float: left;
+}
+.pyramid3{
+    float: right;
+}
+button{
+    margin: 3px;
+}
+.row{
+    text-align: center;
+    border: 1px solid;
+}
+#centerTop{
+    text-align: center;
+}
+.first{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.second{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.first2{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.second2{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+#symbols{
+    padding: 5px;
+}
+#ball11{
+    margin-left: 25px;
+}
+#ball21{
+    margin-left: 25px;
+}
+.balls1{
+    margin-left: 10px;
+}
+.balls2{
+    margin-left: 10px;
+}
